@@ -27,14 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](./images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Gitgub repo](https://github.com/Robert-Thaiyah/social-proof-section)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -47,19 +46,19 @@ Users should be able to:
 
 ### What I learned
 
-
+- CSS Variables
 
 ### Continued development
 
+- CSS variables
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Variables](https://www.youtube.com/watch?v=oZPR_78wCnY) - A tutorial created by Web Dev Simplified about CSS variables Will be reading more on this.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Robert Thaiyah](https://github.com/Robert-Thaiyah)
 
 
 ## Acknowledgments
