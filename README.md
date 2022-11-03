@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Gitgub repo](https://github.com/Robert-Thaiyah/social-proof-section)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://robert-thaiyah.github.io/social-proof-section/)
 
 ## My process
 
